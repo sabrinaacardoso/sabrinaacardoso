@@ -1,7 +1,7 @@
 ## Hello, 🌎! I'm Sabrina.
 
 - 🔭 I am currently working on software development for robot control and automation.
-- 🌱 I’m currently learning ROS, Python and Embedded System. 
+- 🌱 I’m currently learning about ROS, Python and Embedded System. 
 - 😄 Pronouns: She/Her
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinaacardoso&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
