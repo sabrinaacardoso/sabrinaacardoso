@@ -25,10 +25,10 @@
   
 </div>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabrinaacardoso&repo=Universal_Robots_ROS2_SmartFact)](https://github.com/sabrinaacardoso/Universal_Robots_ROS2_SmartFact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabrinaacardoso&repo=Rasboticas)](https://github.com/sabrinaacardoso/Rasboticas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabrinaacardoso&repo=Tecnicas-de-Programacao)](https://github.com/sabrinaacardoso/Tecnicas-de-Programacao)
+  
 <!--
 **sabrinaacardoso/sabrinaacardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
