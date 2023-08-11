@@ -8,12 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaacardoso&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="Sabrina-Ros" width="60" height="30"/></a>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="Sabrina-Ros" width="70" height="40"/></a>
   <img align="center" alt="Sabrina-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Sabrina-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Sabrina-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Sabrina-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Sabrina-rasp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+<img align="center" alt="Sabrina-docker" height="35" width="45" src="https://icongr.am/devicon/docker-original-wordmark.svg">
 </div>
 
 ##
